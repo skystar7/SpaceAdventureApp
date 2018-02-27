@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="roundSize">32sp</dimen>
+    <dimen name="scoreSize">32sp</dimen>
+    <dimen name="gameOverSize">75sp</dimen>
+    <dimen name="padding_top">30dp</dimen>
+</resources>
